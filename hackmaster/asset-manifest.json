@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09396558.css",
+    "main.js": "/static/js/main.033801e6.js",
+    "static/js/787.0d94fdba.chunk.js": "/static/js/787.0d94fdba.chunk.js",
+    "static/media/tata.jpg": "/static/media/tata.3d7d8ac76fea80da1174.jpg",
+    "static/media/cathedrale.jpg": "/static/media/cathedrale.8f13bb9883c096840d5c.jpg",
+    "static/media/ville_haute.jpg": "/static/media/ville_haute.3f25545a5fb00673f837.jpg",
+    "static/media/OIG.png": "/static/media/OIG.4164881c33e50f1469b2.png",
+    "index.html": "/index.html",
+    "main.09396558.css.map": "/static/css/main.09396558.css.map",
+    "main.033801e6.js.map": "/static/js/main.033801e6.js.map",
+    "787.0d94fdba.chunk.js.map": "/static/js/787.0d94fdba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09396558.css",
+    "static/js/main.033801e6.js"
+  ]
+}
